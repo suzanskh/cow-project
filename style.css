@@ -59,12 +59,11 @@
 }
 
 .blog p{
-    font-family: 'Long Cang', cursive;
-    font-size: 30px;
+    font-family: Arial;
+    font-size: 20px;
     text-align: justify;
     color: rgb(3, 30, 30);
     font-weight: 100;
-    font-family: 'Long Cang', cursive;
     font-family: 'Lora', serif;
     letter-spacing: 10px;
 }
