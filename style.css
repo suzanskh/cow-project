@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header h2{
+    color: rgb(0, 4, 249);
+    background-color: rgba(135, 255, 16, 0.589);
+    font-family: 'Exo 2', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.img{
+    background: url("img/cow.jpg");
+    width: 50%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.img h1{
+    text-align: center;
+    color: rgb(255, 251, 6);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+   padding-top: 350px;
+}
+.post{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.blog{
+    background-color: chartreuse;
+    width: 50%;
+    box-shadow: 5px 5px 10px red;
+}
+.blog h1{
+    background-color: green;
+    color: #fff;
+    padding: 5px;
+    border-left: 10px solid red;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 10px solid red;
+    border-right: 10px solid rgb(159, 26, 230);
+    border-top: 10px solid rgb(159, 26, 230);
+    text-align: center;
+}
+.blog h2{
+    background-color: burlywood;
+    margin-top: 40px;
+    letter-spacing: 5px;
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    border-left: 10px solid red;
+}
+
